@@ -31,7 +31,7 @@ Este é um aplicativo web simples que gera QR Codes a partir de links fornecidos
 3. Navegue até o diretório do projeto:
 
     ```bash
-    cd nome-do-repositorio
+    cd app
     ```
 
 4. Execute o aplicativo:
@@ -40,16 +40,12 @@ Este é um aplicativo web simples que gera QR Codes a partir de links fornecidos
     python app.py
     ```
 
-5. Abra um navegador da web e visite `http://localhost:5000` para acessar o aplicativo.
+5. Abra um navegador da web e visite `http://127.0.0.1:5000/` para acessar o aplicativo.
 
-6. No formulário apresentado, digite o link desejado para o QR Code e pressione o botão "Gerar QR Code".
+6. No formulário apresentado, digite o texto desejado para o QR Code e pressione o botão "Gerar QR Code".
 
-7. O QR Code gerado será exibido na página. Você pode escaneá-lo com um aplicativo de leitura de QR Code em seu dispositivo móvel para acessar o link fornecido.
+7. O QR Code gerado será exibido na página. Você pode escaneá-lo com um aplicativo de leitura de QR Code em seu dispositivo móvel para acessar o texto fornecido.
 
 ## Contribuindo
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhorias, novos recursos ou encontrar algum problema, por favor, abra uma issue ou envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
