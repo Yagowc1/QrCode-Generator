@@ -1,6 +1,6 @@
 # Gerador de QR Code
 
-Este é um aplicativo web simples que gera QR Codes a partir de textos fornecidos pelo usuário. Os QR Codes gerados podem ser escaneados para redirecionar os usuários para os links específicos.
+Este é um aplicativo web simples que gera QR Codes a partir de textos fornecidos pelo usuário. Os QR Codes gerados podem ser escaneados então o conteúdo é exibido ao usuário.
 
 ![image](https://github.com/Yagowc1/QrCode-Generator/assets/143226127/d33bec9d-4b68-4b97-9ae8-1339755db405)
 
