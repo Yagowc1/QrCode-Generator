@@ -19,7 +19,7 @@ Este é um aplicativo web simples que gera QR Codes a partir de links fornecidos
 1. Clone este repositório em sua máquina local:
 
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/yagowc1/QrCode-Generator.git
     ```
 
 2. Instale as dependências Python usando pip:
